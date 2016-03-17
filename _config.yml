@@ -1,0 +1,28 @@
+name: beaumont-shuttersandblindsltd
+favicon: null
+layout_spectrum: 0.17894084425643086
+typography_spectrum: 0.3137704588007182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.25885174749419093
+  lightness: 0.15358543558977544
+  saturation: 0.1134244492277503
+  rhythmicContrast: 0.9792382137384266
+purpose: []
